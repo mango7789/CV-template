@@ -1,6 +1,6 @@
 ### Curriculum Viate Template
 - Snap shot:
-   <img src="./template_img.png">
+   <img src="https://github.com/mango7789/CV-template/blob/main/template_img.png">
 
 - You just need to fill in the blank part in the $\LaTeX$ source code and compile it to get the **pdf** file of your cv.
 - To make a chinese version of the cv, one can uncomment the following lines and repeat the above procedure with chinese contents.
